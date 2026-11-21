@@ -1,6 +1,6 @@
 {
- "revision": 51,
- "updatedAt": "2026-11-21T07:26:44.557Z",
+ "revision": 52,
+ "updatedAt": "2026-11-21T07:37:18.185Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -24,7 +24,7 @@
   "message": "Estamos actualizando el modpack. Vuelve a intentarlo en unos minutos."
  },
  "launcher": {
-  "latestVersion": "1.0.6",
+  "latestVersion": "1.0.7",
   "forceUpdate": false,
   "downloadUrl": "https://github.com/harukiby06/bigbang-modpack/releases/latest/download/BigBangLauncher-Setup.exe"
  },
@@ -294,5 +294,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T07:29:05.832Z"
+ "publishedAt": "2026-11-21T07:37:25.417Z"
 }
