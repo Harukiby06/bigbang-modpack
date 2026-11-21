@@ -1,6 +1,6 @@
 {
- "revision": 49,
- "updatedAt": "2026-11-21T07:13:40.974Z",
+ "revision": 51,
+ "updatedAt": "2026-11-21T07:26:44.557Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -279,7 +279,20 @@
    "name": "sodium-extra-options.json",
    "description": "",
    "version": null
+  },
+  {
+   "id": "79f4a7e5-b7c8-40ba-8327-a78246020c97",
+   "path": "config/fancymenu/options.txt",
+   "sha1": "f71a2d92842cb80ccbb61fb2d4300a24b33ec02a",
+   "size": 4574,
+   "url": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/files/f71a2d92842cb80ccbb61fb2d4300a24b33ec02a",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": false,
+   "name": "options.txt",
+   "description": "",
+   "version": null
   }
  ],
- "publishedAt": "2026-11-21T07:23:15.231Z"
+ "publishedAt": "2026-11-21T07:29:05.832Z"
 }
