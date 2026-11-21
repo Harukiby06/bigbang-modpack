@@ -1,6 +1,6 @@
 {
- "revision": 58,
- "updatedAt": "2026-11-21T16:48:47.907Z",
+ "revision": 61,
+ "updatedAt": "2026-11-21T16:57:02.809Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -305,7 +305,46 @@
    "name": "Iris Shaders",
    "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
    "version": "1.8.14-beta.1+mc1.21.1"
+  },
+  {
+   "id": "0a191701-6e54-4e10-8061-bb9ddcd1b578",
+   "path": "mods/zoomify-2.15.2+1.21.1.jar",
+   "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6",
+   "size": 872937,
+   "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Zoomify (Zoom)",
+   "description": "A zoom mod with infinite customizability.",
+   "version": "2.15.2+1.21.1"
+  },
+  {
+   "id": "78385096-7876-405e-91b4-68bae9424a6c",
+   "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+   "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+   "size": 8142878,
+   "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Fabric Language Kotlin",
+   "description": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.",
+   "version": "1.14.2+kotlin.2.4.21"
+  },
+  {
+   "id": "926c5cd5-bb85-491c-aace-512bcb6d363e",
+   "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+   "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+   "size": 1131265,
+   "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "YetAnotherConfigLib (YACL)",
+   "description": "A builder-based configuration library for Minecraft!",
+   "version": "3.8.2+1.21.1-fabric"
   }
  ],
- "publishedAt": "2026-11-21T16:49:08.041Z"
+ "publishedAt": "2026-11-21T16:57:19.142Z"
 }
