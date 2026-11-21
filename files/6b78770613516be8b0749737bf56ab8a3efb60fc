@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = bigbang_espacio
+  speed = 0.5
+  fov = 85
+  angle = 20
+}
+
