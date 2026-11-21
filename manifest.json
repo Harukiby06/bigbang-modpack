@@ -1,6 +1,6 @@
 {
- "revision": 32,
- "updatedAt": "2026-11-21T06:39:35.103Z",
+ "revision": 34,
+ "updatedAt": "2026-11-21T06:53:45.890Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -24,14 +24,14 @@
   "message": "Estamos actualizando el modpack. Vuelve a intentarlo en unos minutos."
  },
  "launcher": {
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.0.5",
   "forceUpdate": false,
   "downloadUrl": ""
  },
  "reports": null,
  "branding": {
-  "title": "Mi Servidor",
-  "subtitle": "Modpack oficial · Forge 1.21.1",
+  "title": "BigBang",
+  "subtitle": "Modpack oficial · Fabric 1.21.1",
   "accent": "#6929ff",
   "accent2": "#3175e3",
   "background": "#070515",
@@ -177,5 +177,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T06:39:46.241Z"
+ "publishedAt": "2026-11-21T06:53:49.441Z"
 }
