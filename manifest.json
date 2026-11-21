@@ -1,6 +1,6 @@
 {
- "revision": 31,
- "updatedAt": "2026-11-21T06:34:26.219Z",
+ "revision": 32,
+ "updatedAt": "2026-11-21T06:39:35.103Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -32,15 +32,15 @@
  "branding": {
   "title": "Mi Servidor",
   "subtitle": "Modpack oficial · Forge 1.21.1",
-  "accent": "#22c55e",
-  "accent2": "#0ea5e9",
-  "background": "#0b0f14",
-  "panel": "#111827",
+  "accent": "#6929ff",
+  "accent2": "#3175e3",
+  "background": "#070515",
+  "panel": "#13152f",
   "text": "#e5e7eb",
-  "overlay": 55,
-  "blur": 0,
+  "overlay": 50,
+  "blur": 1,
   "radius": 12,
-  "font": "system",
+  "font": "mono",
   "customCss": "",
   "images": {
    "logo": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/branding/logo-1795218526712.png",
@@ -177,5 +177,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T06:38:21.577Z"
+ "publishedAt": "2026-11-21T06:39:46.241Z"
 }
