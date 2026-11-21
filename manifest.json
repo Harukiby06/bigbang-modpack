@@ -1,6 +1,6 @@
 {
- "revision": 52,
- "updatedAt": "2026-11-21T07:37:18.185Z",
+ "revision": 53,
+ "updatedAt": "2026-11-21T07:39:51.312Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -53,8 +53,8 @@
   {
    "id": "a46c9294-efeb-4314-858a-71f7a8fe437c",
    "title": "¡Bienvenido!",
-   "body": "Pulsa ACTUALIZAR para descargar el modpack y después JUGAR.",
-   "date": "2026-11-20T23:37:29.659Z",
+   "body": "Pulsa INSTALAR para descargar el modpack y después JUGAR. Si se realizan cambios de mods o configuraciones, presiona ACTUALIZAR.",
+   "date": "2026-11-21T23:37:00.000Z",
    "image": null
   }
  ],
@@ -294,5 +294,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T07:37:25.417Z"
+ "publishedAt": "2026-11-21T07:39:54.555Z"
 }
