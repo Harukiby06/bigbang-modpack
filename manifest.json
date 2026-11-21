@@ -1,6 +1,6 @@
 {
- "revision": 57,
- "updatedAt": "2026-11-21T16:33:34.331Z",
+ "revision": 58,
+ "updatedAt": "2026-11-21T16:48:47.907Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -292,7 +292,20 @@
    "name": "options.txt",
    "description": "",
    "version": null
+  },
+  {
+   "id": "03da6dc8-1119-43b3-bfaf-f33fcee65d70",
+   "path": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+   "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5",
+   "size": 2791343,
+   "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Iris Shaders",
+   "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
+   "version": "1.8.14-beta.1+mc1.21.1"
   }
  ],
- "publishedAt": "2026-11-21T16:33:37.079Z"
+ "publishedAt": "2026-11-21T16:49:08.041Z"
 }
