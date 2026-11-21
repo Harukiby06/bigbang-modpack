@@ -1,6 +1,6 @@
 {
- "revision": 35,
- "updatedAt": "2026-11-21T06:55:16.972Z",
+ "revision": 36,
+ "updatedAt": "2026-11-21T07:00:07.951Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -24,7 +24,7 @@
   "message": "Estamos actualizando el modpack. Vuelve a intentarlo en unos minutos."
  },
  "launcher": {
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.6",
   "forceUpdate": false,
   "downloadUrl": ""
  },
@@ -177,5 +177,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T06:55:19.869Z"
+ "publishedAt": "2026-11-21T07:00:10.616Z"
 }
