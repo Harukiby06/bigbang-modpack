@@ -1,0 +1,181 @@
+{
+ "revision": 31,
+ "updatedAt": "2026-11-21T06:34:26.219Z",
+ "name": "BigBang",
+ "minecraft": "1.21.1",
+ "loader": "fabric",
+ "loaderVersion": "0.20.1",
+ "minRam": 6144,
+ "recommendedRam": 8192,
+ "jvmArgs": "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+ "server": {
+  "address": "",
+  "port": 25565,
+  "autoConnect": true,
+  "showStatus": true
+ },
+ "auth": {
+  "microsoft": true,
+  "offline": true
+ },
+ "strictMods": true,
+ "maintenance": {
+  "enabled": false,
+  "message": "Estamos actualizando el modpack. Vuelve a intentarlo en unos minutos."
+ },
+ "launcher": {
+  "latestVersion": "1.0.2",
+  "forceUpdate": false,
+  "downloadUrl": ""
+ },
+ "reports": null,
+ "branding": {
+  "title": "Mi Servidor",
+  "subtitle": "Modpack oficial · Forge 1.21.1",
+  "accent": "#22c55e",
+  "accent2": "#0ea5e9",
+  "background": "#0b0f14",
+  "panel": "#111827",
+  "text": "#e5e7eb",
+  "overlay": 55,
+  "blur": 0,
+  "radius": 12,
+  "font": "system",
+  "customCss": "",
+  "images": {
+   "logo": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/branding/logo-1795218526712.png",
+   "banner": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/branding/banner-1795218539563.png",
+   "background": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/branding/background-1795218677592.png"
+  },
+  "links": []
+ },
+ "news": [
+  {
+   "id": "a46c9294-efeb-4314-858a-71f7a8fe437c",
+   "title": "¡Bienvenido!",
+   "body": "Pulsa ACTUALIZAR para descargar el modpack y después JUGAR.",
+   "date": "2026-11-20T23:37:29.659Z",
+   "image": null
+  }
+ ],
+ "files": [
+  {
+   "id": "15e8ec52-347a-44e7-aeeb-911a7bc35e8a",
+   "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+   "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
+   "size": 1574609,
+   "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Sodium",
+   "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+   "version": "0.8.13+mc1.21.1"
+  },
+  {
+   "id": "6b510b93-d3cd-49a9-b465-7ec2dad20da7",
+   "path": "mods/sodium-extra-fabric-0.9.5+mc1.21.1.jar",
+   "sha1": "39df00f8a5baeeeff4bf0226997e958d89fe0c93",
+   "size": 492939,
+   "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/CmiqMBZT/sodium-extra-fabric-0.9.5%2Bmc1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Sodium Extra",
+   "description": "A Sodium addon that adds features that shouldn't be in Sodium.",
+   "version": "0.9.5+mc1.21.1"
+  },
+  {
+   "id": "f62af725-cbd6-4483-a603-cd385fde2ef2",
+   "path": "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
+   "sha1": "552c80c3113ad346c3abcdf7c5c6cc3a02a5fb62",
+   "size": 257229,
+   "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XtuPOKUN/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Reese's Sodium Options",
+   "description": "Alternative Options Menu for Sodium",
+   "version": "2.2.4+mc1.21.1"
+  },
+  {
+   "id": "4491173c-10df-422d-80f2-9c0efa7d06b3",
+   "path": "mods/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "sha1": "59b73891befcbd20a977a903eac8e212287a31f8",
+   "size": 1914438,
+   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "3D Skin Layers",
+   "description": "Render the player skin layer in 3d!",
+   "version": "1.11.4"
+  },
+  {
+   "id": "a744eef5-bcab-4b8f-b6a4-20a22865c69e",
+   "path": "mods/fabric-api-0.116.18+1.21.1.jar",
+   "sha1": "584d303f646287ee6be059ecb2fc451255be9ee9",
+   "size": 2453884,
+   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Fabric API",
+   "description": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+   "version": "0.116.18+1.21.1"
+  },
+  {
+   "id": "869c8bc9-37f2-44ec-a3d7-dc6fbf5f8d5f",
+   "path": "mods/Female-Gender-Mod-fabric-3.2.1+1.21.jar",
+   "sha1": "f16a343bfd3314a0153188a3a8a3c9d452ed7a28",
+   "size": 962362,
+   "url": "https://cdn.modrinth.com/data/bcOsQHnC/versions/kJmjQvAS/Female-Gender-Mod-fabric-3.2.1%2B1.21.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Female Gender Mod",
+   "description": "The Female Gender Mod introduces extra player model customization options, including a unique feature that adds a personalized touch to your avatar.",
+   "version": "3.2.1+1.21"
+  },
+  {
+   "id": "81cb138f-ebc9-4ec6-a9bb-f35022831f52",
+   "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+   "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
+   "size": 75984,
+   "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Mouse Tweaks",
+   "description": "Enhances inventory management by adding various functions to the mouse buttons. ",
+   "version": "2.26"
+  },
+  {
+   "id": "8e89c3cd-dc69-43f0-ba54-feed1884e02b",
+   "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+   "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
+   "size": 222917,
+   "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/yyYvYfZI/CustomSkinLoader_Universal-15.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "CustomSkinLoader",
+   "description": "Custom Skin Loader mod for Minecraft.",
+   "version": "15.1"
+  },
+  {
+   "id": "2d0e5676-1321-4403-8dda-f48bf26d4a98",
+   "path": "CustomSkinLoader/CustomSkinLoader.json",
+   "sha1": "1d47ae02cb7b56b6a9ae1693f46340161f4de2db",
+   "size": 903,
+   "url": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/files/1d47ae02cb7b56b6a9ae1693f46340161f4de2db",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": false,
+   "name": "CustomSkinLoader.json",
+   "description": "",
+   "version": null
+  }
+ ],
+ "publishedAt": "2026-11-21T06:38:21.577Z"
+}
