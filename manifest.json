@@ -1,6 +1,6 @@
 {
- "revision": 34,
- "updatedAt": "2026-11-21T06:53:45.890Z",
+ "revision": 35,
+ "updatedAt": "2026-11-21T06:55:16.972Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -177,5 +177,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T06:53:49.441Z"
+ "publishedAt": "2026-11-21T06:55:19.869Z"
 }
