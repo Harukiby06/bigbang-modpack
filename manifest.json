@@ -1,6 +1,6 @@
 {
- "revision": 36,
- "updatedAt": "2026-11-21T07:00:07.951Z",
+ "revision": 49,
+ "updatedAt": "2026-11-21T07:13:40.974Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -175,7 +175,111 @@
    "name": "CustomSkinLoader.json",
    "description": "",
    "version": null
+  },
+  {
+   "id": "1deeb5b9-237e-4160-8607-a6b39b6ac37a",
+   "path": "mods/modmenu-11.0.5.jar",
+   "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
+   "size": 975846,
+   "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Mod Menu",
+   "description": "Adds a mod menu to view the list of mods you have installed.",
+   "version": "11.0.5"
+  },
+  {
+   "id": "19091099-f7fc-40a1-a7d4-253ba66f665e",
+   "path": "mods/placeholder-api-2.4.2+1.21.jar",
+   "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+   "size": 232325,
+   "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Text Placeholder API",
+   "description": "Placeholder and Text manipulation library for your Minecraft mods.",
+   "version": "2.4.2+1.21"
+  },
+  {
+   "id": "054971e8-960f-4196-a79e-3593808a8a65",
+   "path": "mods/fancymenu_fabric_3.10.0_MC_1.21.1.jar",
+   "sha1": "15b0d87fddc2e40b0c03d6e5b54466fffafb7982",
+   "size": 36758572,
+   "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/NlGYrvFz/fancymenu_fabric_3.10.0_MC_1.21.1.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "FancyMenu",
+   "description": "Customize Minecraft's menus with ease!",
+   "version": "3.10.0"
+  },
+  {
+   "id": "9e08ef87-a18a-46dd-8d1c-9d159dd3887c",
+   "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+   "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+   "size": 786695,
+   "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Konkrete",
+   "description": "Just another boring library mod.",
+   "version": "1.9.9"
+  },
+  {
+   "id": "ce9a5b2b-a345-4318-8b52-3692bc479e41",
+   "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+   "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+   "size": 188035,
+   "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": true,
+   "name": "Melody",
+   "description": "OpenAL-based library mod for playing background music.",
+   "version": "1.0.10"
+  },
+  {
+   "id": "8c2bacf3-e148-43db-a87e-4712b95c9e13",
+   "path": "options.txt",
+   "sha1": "bab536632702d814fc9688d4e76abc6770d21e7c",
+   "size": 3621,
+   "url": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/files/bab536632702d814fc9688d4e76abc6770d21e7c",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": false,
+   "name": "options.txt",
+   "description": "",
+   "version": null
+  },
+  {
+   "id": "c54f996e-a69e-4e2d-900e-3ed546c42050",
+   "path": "config/sodium-options.json",
+   "sha1": "3340dc58331eb79197766f2a5b3fa8b0c3939c99",
+   "size": 759,
+   "url": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/files/3340dc58331eb79197766f2a5b3fa8b0c3939c99",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": false,
+   "name": "sodium-options.json",
+   "description": "",
+   "version": null
+  },
+  {
+   "id": "549a044a-5209-4520-bb56-65072c20f593",
+   "path": "config/sodium-extra-options.json",
+   "sha1": "2cd4fd259b6c7ba9f33acaf7d1b197d9c88eb3d8",
+   "size": 2175,
+   "url": "https://raw.githubusercontent.com/harukiby06/bigbang-modpack/main/files/2cd4fd259b6c7ba9f33acaf7d1b197d9c88eb3d8",
+   "optional": false,
+   "defaultEnabled": true,
+   "overwrite": false,
+   "name": "sodium-extra-options.json",
+   "description": "",
+   "version": null
   }
  ],
- "publishedAt": "2026-11-21T07:03:17.916Z"
+ "publishedAt": "2026-11-21T07:23:15.231Z"
 }
