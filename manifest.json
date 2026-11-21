@@ -1,6 +1,6 @@
 {
- "revision": 56,
- "updatedAt": "2026-11-21T16:32:59.553Z",
+ "revision": 57,
+ "updatedAt": "2026-11-21T16:33:34.331Z",
  "name": "BigBang",
  "minecraft": "1.21.1",
  "loader": "fabric",
@@ -55,13 +55,6 @@
    "title": "¡Bienvenido!",
    "body": "En AJUSTES puedes cambiar la ubicacion en la que quieres tu modpack. Luego pulsa INSTALAR para descargarlo y después JUGAR. \nSi se realizan cambios de mods o configuraciones, presiona ACTUALIZAR.",
    "date": "2026-11-21T23:37:00.000Z",
-   "image": null
-  },
-  {
-   "id": "7f7e2564-3ff5-43a9-abdc-c6aa55aac517",
-   "title": "PRUEBA",
-   "body": "PRUEBA",
-   "date": "2026-11-21T16:32:00.000Z",
    "image": null
   }
  ],
@@ -301,5 +294,5 @@
    "version": null
   }
  ],
- "publishedAt": "2026-11-21T16:33:02.608Z"
+ "publishedAt": "2026-11-21T16:33:37.079Z"
 }
